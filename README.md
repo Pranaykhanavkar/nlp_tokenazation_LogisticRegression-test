@@ -1,8 +1,23 @@
 # nlp_tokenazation_LogisticRegression-test
+summary
+brief
+overview
+problem statement
+Sentiment
+🛠 Tools & Technologies Used
+⚙️ Methodology
+Key Insights from Analysis
+💻 Sample Code Snippet
+code
+📈 Results
+🔮 Future Work
+
+
 #one line summary
 Tokenization is the process of breaking down a sentence or text into smaller units called tokens. These tokens are usually individual words, but they can also be characters or phrases depending on the analysis.
 
 #overview
+Features
 
 This project applies Natural Language Processing (NLP) techniques to analyze customer reviews from a women’s clothing e-commerce dataset.
 The goal is to automatically understand customer opinions and classify reviews as Positive or Negative, helping businesses gain actionable insights without manually reading thousands of reviews.
